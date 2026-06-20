@@ -9,7 +9,7 @@ description: >-
   Server. This index links to the canonical specifications and documentation
   for the protocol; no OpenAPI is generated because FTP is not an HTTP API.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: Standard
 created: '2025-01-01'
 modified: '2026-04-28'
