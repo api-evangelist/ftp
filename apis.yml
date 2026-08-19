@@ -27,7 +27,7 @@ modified: '2026-04-28'
 position: Standard
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ftp/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - FTP
   - File Transfer
