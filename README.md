@@ -1,4 +1,4 @@
-# FTP (ftp)
+# ftp
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,48 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FTP (File Transfer Protocol) is a standard network protocol used to transfer files between a client and a server over a TCP-based network. FTP is a protocol specification rather than a vendor or HTTP API, and is documented primarily in IETF standards (RFC 959 and follow-ups) and in widely deployed server implementations such as vsftpd, ProFTPD, Pure-FTPd, and FileZilla Server. This index links to the canonical specifications and documentation for the protocol; no OpenAPI is generated because FTP is not an HTTP API.
+## ftp on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ftp/refs/heads/main/apis.yml)
+Everything profiled for ftp is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ftp/](https://apis.io/providers/ftp/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Access:** Standard
-- **Position:** Standard
+Not yet rated. See [apis.io/providers/ftp/](https://apis.io/providers/ftp/).
 
-## Tags
+## How this profile is made
 
-- FTP
-- File Transfer
-- Network Protocol
-- IETF
-- Standard
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ftp: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-This repository indexes the FTP protocol itself, which is defined by IETF specifications rather than exposed as an HTTP API. No OpenAPI artifacts are included because the protocol is not an HTTP API.
-
-## Common Properties
-
-- [Specification: RFC 959 (FTP)](https://datatracker.ietf.org/doc/html/rfc959)
-- [Specification: RFC 2228 (FTP Security Extensions)](https://datatracker.ietf.org/doc/html/rfc2228)
-- [Specification: RFC 2428 (FTP Extensions for IPv6 and NATs)](https://datatracker.ietf.org/doc/html/rfc2428)
-- [Specification: RFC 4217 (Securing FTP with TLS)](https://datatracker.ietf.org/doc/html/rfc4217)
-- [Documentation: Wikipedia](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
-- [IANA Port Assignments](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
-- [Implementation: vsftpd](https://security.appspot.com/vsftpd.html)
-- [Implementation: ProFTPD](http://www.proftpd.org/)
-- [Implementation: Pure-FTPd](https://www.pureftpd.org/)
-- [Implementation: FileZilla](https://filezilla-project.org/)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ftp/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
